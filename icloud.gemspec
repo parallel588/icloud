@@ -5,7 +5,7 @@ require 'icloud/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "icloud"
-  gem.version       = Icloud::VERSION
+  gem.version       = ICloud::VERSION
   gem.authors       = ["Maxim"]
   gem.email         = ["parallel588@gmail.com"]
   gem.description   = %q{Non official iCloud API}
